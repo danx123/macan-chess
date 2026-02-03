@@ -2,7 +2,7 @@
 
 A professional, tiger-themed chess application built with PySide6, featuring elegant jungle animal pieces and a sophisticated modern interface.
 
-![Macan Chess](https://img.shields.io/badge/version-2.0-blue) ![Python](https://img.shields.io/badge/python-3.8+-green) ![License](https://img.shields.io/badge/license-MIT-orange)
+![Macan Chess](https://img.shields.io/badge/version-3.0-blue) ![Python](https://img.shields.io/badge/python-3.8+-green) ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## ✨ Features
 
